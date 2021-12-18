@@ -1,4 +1,8 @@
+Archivo #2
+
 Este es un archivo de test para 
 el curso de git.
 
 No tiene nada especial. 
+
+excepto por que ahora esta es una linea nueva y por lo tanto es una nueva version. 
