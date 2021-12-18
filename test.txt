@@ -1,8 +1,4 @@
-Archivo #3
-
 Este es un archivo de test para 
 el curso de git.
 
-No tiene nada especial. Perdon, si es especial, tiene nuevas modificaciones. 
-
-excepto por que ahora esta es una linea vieja y no se pondra una nueva. 
+No tiene nada especial. 
