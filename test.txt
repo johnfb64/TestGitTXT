@@ -5,4 +5,6 @@ el curso de git.
 
 No tiene nada especial. Perdon, si es especial, tiene nuevas modificaciones. 
 
-excepto por que ahora esta es una linea vieja y no se pondra una nueva. 
+excepto por que ahora esta es una linea vieja y no se pondra una nueva.
+
+continuamos con mas lineas a fin de hacer demostracion. 
